@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace hallow_word
 {
-    public partial class Form2 : Form
+    public partial class Mohammed : Form
     {
-        public Form2()
+        public Mohammed()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
